@@ -1,0 +1,26 @@
+body{
+    background-color: darkmagenta;
+}
+
+.container{
+    margin:  390px;
+    margin-top: 150px;
+    /* border: 2px solid; */
+    width: 450px;
+    height: 200px;
+    background-color: beige;
+}
+
+.head{
+    text-align: center;
+}
+
+legend{
+    font-size: 30px;
+    /* background-color: white; */
+}
+
+
+.check{
+    padding: 20px;
+}
